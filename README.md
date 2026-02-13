@@ -1,4 +1,6 @@
-to run save the model and app.py in same folder
+to run app.py.
 
-run cd "flide_path"
+save the model and app.py in same folder
+
+run cd "file_path"
 streamlit run app.py
